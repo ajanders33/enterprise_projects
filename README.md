@@ -1,2 +1,2 @@
 # enterprise_automation
-Enterprise Automation
+Enterprise Projects
