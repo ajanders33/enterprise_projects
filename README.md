@@ -1,2 +1,2 @@
-# enterprise_automation
+# enterprise_projects
 Enterprise Projects
